@@ -15,8 +15,8 @@ Satıcıya özel kullanıcı adı ve şifre ile sisteme giriş
 
 Projede kullanılacak muhtemel veritabanı tabloları neler olacaktır?
 -------------------------------------------------------------------
-Satıcının kullanıcı adı ve şifre tabloları
-Müşterinin adı-soyadı tabloları 
+*Satıcının kullanıcı adı ve şifre tabloları*
+*Müşterinin adı-soyadı tabloları*
 Gelen bilgisayarın marka ve model tabloları 
 Onarımın bittiği zamanın ve kullanıcının teslim aldığı tarihin tabloları 
 Onarım ücreti ve tahsil edilip edilmediğini kontrol etme tabloları 
