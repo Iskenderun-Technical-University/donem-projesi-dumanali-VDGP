@@ -5,33 +5,33 @@
 
 Neden böyle bir proje yapmak istedim?
 -------------------------------------------------------------------
-Bu projeyi yapmaktaki asıl amacım tamir gerektiren bilgisayarların bir kayıt altında tutulması ve takibinin daha kolay yapılmasıdır. 
+*Bu projeyi yapmaktaki asıl amacım tamir gerektiren bilgisayarların bir kayıt altında tutulması ve takibinin daha kolay yapılmasıdır.* 
 
 Projenin asıl amacı nedir? Yazılımın özellikleri nelerdir?
 -------------------------------------------------------------------
-Müşteri tarafından gelen cihazların arızasını kayıt altına alma ve bunların veritabanında arıza detayı ve maliyeti olarak tutulması
+*Müşteri tarafından gelen cihazların arızasını kayıt altına alma ve bunların veritabanında arıza detayı ve maliyeti olarak tutulması*
 
 
-Onarıların arızaların ücretini tahsil edilmesini sağlama ve tahsil edildikten sonra veritabanına işleme
+*Onarıların arızaların ücretini tahsil edilmesini sağlama ve tahsil edildikten sonra veritabanına işleme*
 
 
-Satıcıya özel kullanıcı adı ve şifre ile sisteme giriş
+*Satıcıya özel kullanıcı adı ve şifre ile sisteme giriş*
 
 Projede kullanılacak muhtemel veritabanı tabloları neler olacaktır?
 -------------------------------------------------------------------
-Satıcının kullanıcı adı ve şifre tabloları
+*Satıcının kullanıcı adı ve şifre tabloları*
 
 
-Müşterinin adı-soyadı tabloları
+*Müşterinin adı-soyadı tabloları*
 
 
-Gelen bilgisayarın marka ve model tabloları 
+*Gelen bilgisayarın marka ve model tabloları*
 
 
-Onarımın bittiği zamanın ve kullanıcının teslim aldığı tarihin tabloları 
+*Onarımın bittiği zamanın ve kullanıcının teslim aldığı tarihin tabloları *
 
 
-Onarım ücreti ve tahsil edilip edilmediğini kontrol etme tabloları 
+*Onarım ücreti ve tahsil edilip edilmediğini kontrol etme tabloları*
 
 
 
