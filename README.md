@@ -28,7 +28,7 @@ Projede kullanılacak muhtemel veritabanı tabloları neler olacaktır?
 *Gelen bilgisayarın marka ve model tabloları*
 
 
-*Onarımın bittiği zamanın ve kullanıcının teslim aldığı tarihin tabloları *
+*Onarımın bittiği zamanın ve kullanıcının teslim aldığı tarihin tabloları*
 
 
 *Onarım ücreti ve tahsil edilip edilmediğini kontrol etme tabloları*
